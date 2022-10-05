@@ -1,9 +1,15 @@
-h2{
-    text-align: center;
-    color: midnightblue;
-    font-family:Verdana, Geneva, Tahoma, sans-serif; 
-    /* change font */
-     
+body{
+    background-color: rgb(27, 2, 99);
+}
+
+.title{
+    font-size: 45px;
+    color: rgb(225, 223, 232);
+    /* [didn't work try with link]  font-family: 'Dancing Script', cursive; */
+}
+
+.discription{
+    color: rgb(225, 223, 232);
 }
 
 .center{
@@ -15,6 +21,7 @@ h2{
     width: 50%;
     height: 50%; 
    
+   
 }
 
 h5{
@@ -24,12 +31,5 @@ h5{
      /* change font */
 }
 
-/* div{
-    background-color: mediumblue;
-    <br>
-    <br>
-    <br>
-    <br>
-} */
 
 
