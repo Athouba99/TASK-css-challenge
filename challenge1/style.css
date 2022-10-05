@@ -6,12 +6,14 @@ h2{
      
 }
 
-img{
-    display: black ;
-    margin-right: auto;
-    margin-left: auto;
-    width: 5%;
-    height: 5%;
+.center{
+    display: block;
+    background-color: rgb(30, 4, 95);
+    /* display: rgb(30, 4, 95) ; */
+    margin-right: auto; /* center */
+    margin-left: auto; /* center */
+    width: 50%;
+    height: 50%; 
    
 }
 
@@ -22,12 +24,12 @@ h5{
      /* change font */
 }
 
-div{
+/* div{
     background-color: mediumblue;
     <br>
     <br>
     <br>
     <br>
-}
+} */
 
 
