@@ -4,22 +4,25 @@ body{
 
 .container{
     display: flex;  /* flex defult is row */
-    min-height: 90vh;
-   justify-content: center;
-   align-items: center;
+    min-height: 90vh; /* above card space*/ 
+   justify-content: center; /* placement*/
+   align-items: center; /* placement*/
 
 }
 .card{
     background-color: azure;  
-    width: 35%;
+    width: 20%;
+    height: 10%;
     text-align: center;
     border-radius: 9%;
+    /*card shadow */
     -webkit-box-shadow: 12px 3px 24px 5px rgba(0,0,0,0.43); 
     box-shadow: 12px 3px 24px 5px rgba(0,0,0,0.43);
+    
+    padding: 4%;
 }
 
 .card-image{
-    border-radius: 150%;
-    width: 45%;
-
+    border-radius: 100%;
+    width: 35%;
 }
