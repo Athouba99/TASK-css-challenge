@@ -15,25 +15,8 @@ body{
     text-align: center;
 
 
-}
-.center{
-    display: block;
-    background-color: rgb(30, 4, 95);
-    /* display: rgb(30, 4, 95) ; */
-    margin-right: auto; /* center */
-    margin-left: auto; /* center */
-    width: 50%;
-    height: 50%; 
-   
-   
-}
-
-h5{
-    text-align: center;
-    color: midnightblue;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-     /* change font */
-}
+ }
+ 
 
 
 

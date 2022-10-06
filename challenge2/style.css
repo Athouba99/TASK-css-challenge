@@ -1,0 +1,25 @@
+body{
+    background-image: url(../assets/pokemon-bg.jpg);
+}
+
+.container{
+    display: flex;  /* flex defult is row */
+    min-height: 90vh;
+   justify-content: center;
+   align-items: center;
+
+}
+.card{
+    background-color: azure;  
+    width: 35%;
+    text-align: center;
+    border-radius: 9%;
+    -webkit-box-shadow: 12px 3px 24px 5px rgba(0,0,0,0.43); 
+    box-shadow: 12px 3px 24px 5px rgba(0,0,0,0.43);
+}
+
+.card-image{
+    border-radius: 150%;
+    width: 45%;
+
+}
