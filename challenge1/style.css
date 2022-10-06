@@ -1,20 +1,27 @@
 body{
-    background-color: rgb(27, 2, 99);
+    background-color: rgb(46, 33, 87);
+}
+
+.image{
+    width: 27%;
+    border-radius: 2%;
+    margin-top: 1.5%;
 }
 
 .title{
-    font-size: 45px;
-
-    /* [didn't work try with link]  font-family: 'Dancing Script', cursive; */
+    font-size: 40px;
+    font-family: 'Dancing Script', 'cursive';  /*from google font*/
 }
 
+.description{
+    size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: lighter;
+}
 
-
-.section{
+.section{ /*used to avoid code raptition*/
     color: rgb(225, 223, 232);
     text-align: center;
-
-
  }
  
 
