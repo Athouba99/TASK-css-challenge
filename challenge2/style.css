@@ -9,10 +9,12 @@ body{
    align-items: center; /* placement*/
 
 }
-.card{
+
+.card{ /* class that control the card*/
+
     background-color: azure;  
     width: 20%;
-    height: 10%;
+    height: 18%;
     text-align: center;
     border-radius: 9%;
     /*card shadow */
@@ -22,7 +24,7 @@ body{
     padding: 4%;
 }
 
-.card-image{
+.card-image{ /* class that control the image*/
     border-radius: 100%;
-    width: 35%;
+    width: 45%;
 }
